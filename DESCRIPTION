@@ -1,0 +1,20 @@
+Type: Compendium
+Package: simViewerKeeleNPH
+Title: Simulation results viewer
+Version: 0.0.1
+Authors@R: 
+    person(given = "Shawna",
+			 middle = "K.",
+			 family = "Metzger",
+			 role = c("aut", "cre"),
+			 email = "shawna@shawnakmetzger.com",
+			 comment = c(Affiliation = "JMC, MSU"))
+Description: Shiny app to view simulation results from
+    Metzger's "Proportionally Less Difficult?"
+License: N/A
+Depends: 
+    magrittr,
+    shiny,
+    shinyWidgets
+Encoding: UTF-8
+LazyData: true
